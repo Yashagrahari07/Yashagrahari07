@@ -1,8 +1,8 @@
 # Hi there 👋
 - 💫 I'm Yash Agrahari currently pursuing BTech from Jaypee University of Engineering and Technology.
 - 🔭 I’m currently working on various Projects.
-- 🌱 I’m currently learning various Topics. And I'm passionate about Competitive Programming as well as Web Development.
-- 💬 Ask me about Python and C++
+- 🌱 I’m currently learning various Topics. And I'm passionate about Problem Solving as well as Web Development.
+- 💬 Ask me about C++ and Python
 - 📫 How to reach me: yashagrahari456@gmail.com
 
 
@@ -21,7 +21,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yashagrahari07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
