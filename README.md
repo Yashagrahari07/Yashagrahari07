@@ -41,7 +41,7 @@ new Person({
 
 ```cmd
 D:\Yash-Agrahari> node index.js
-Hi, my name is Yash Agrahari, I'm a Full Stack Developer from Indonesia.
+Hi, my name is Yash Agrahari, I'm a Full Stack Developer from India.
 ```
 
 <div align="center">
