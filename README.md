@@ -12,7 +12,7 @@
 <p align="center">
   <em>
     Hi 👋 everyone. I'm <b>Yash Agrahari</b>, a final year <b>Computer Science</b> undergraduate from <b>Jaypee University of Engineering and Technology</b>, Guna.
-    An aspiring <b>Full Stack Web Developer</b>&nbsp;
+    An aspiring <b>Full Stack Web Developer.</b>&nbsp;
   <br>
   <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
 </p>
