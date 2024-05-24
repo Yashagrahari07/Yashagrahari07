@@ -1,36 +1,61 @@
-# Hi there 👋
-- 💫 I'm Yash Agrahari currently pursuing BTech from Jaypee University of Engineering and Technology.
-- 🔭 I’m currently working on various Projects.
-- 🌱 I’m currently learning various Topics. And I'm passionate about Problem Solving as well as Web Development.
-- 💬 Ask me about C++ and Python
-- 📫 How to reach me: yashagrahari456@gmail.com
+<!--
+- Original Creation by Yash Agrahari (Yash-Agrahari)
+- Github Repository: https://github.com/Yashagrahari07/Yashagrahari07
+- ⭐ Don't forget to give a star ⭐
+-->
 
+<h1 align="center">Hi there! 👋 I'm Yash Agrahari</h1>
+<p align="center">
+  <a href="https://github.com/Yashagrahari07/Yashagrahari07"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashagrahari) 
-[![CodeChef Badge](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat-square&logo=Codechef&logoColor=white)](https://www.codechef.com/users/yash_agrahari) 
-[![Gmail Badge](https://img.shields.io/badge/-yashagrahari456@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashagrahari456@gmail.com)](mailto:yashagrahari456@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash._agrahari) 
+<p align="center">
+  <em>
+    Hi 👋 everyone. I'm <b>Yash Agrahari</b>, a final year <b>Computer Science</b> undergraduate from <b>Jaypee University of Engineering and Technology</b>, Guna.
+    An aspiring <b>Full Stack Web Developer</b>&nbsp;
+  <br>
+  <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## A little more about me... 🌟
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yashagrahari07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashagrahari07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashagrahari07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```js
+"use creativity";
+import { Person } from 'india';
 
----
-[![](https://visitcount.itsvg.in/api?id=Yashagrahari07&icon=0&color=0)](https://visitcount.itsvg.in)
+new Person({
+    name   : 'Yash Agrahari',
+    title  : 'Full Stack Developer',
+    email  : 'yashagrahari456@gmail.com',
+    languages: ["Python", "C++", "C", "Javascript"]
+}).introduce();
+```
 
+```cmd
+D:\Yash-Agrahari> node index.js
+Hi, my name is Yash Agrahari, I'm a Full Stack Developer from Indonesia.
+```
+
+<div align="center">
+    
+## 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,firebase,tailwindcss,bootstrap,html,css,vscode,figma,git,js,postman,mysql,mongodb,github,vscode"/>
+ </p>
+
+## 📊 GitHub Stats:
+<div style="display: flex;">
+    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashagrahari07&show_icons=true&locale=en&layout=compact&theme=radical" alt="yashagrahari07" /></p>
+    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashagrahari07&show_icons=true&locale=en&theme=radical" alt="yashagrahari07" /></p>
+    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashagrahari07&show_icons=true&locale=en&theme=radical" alt="yashagrahari07" /></p>
+</div>
+
+![](https://komarev.com/ghpvc/?username=Yashagrahari07) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Yashagrahari07?label=Followers) ![Stars](https://img.shields.io/github/stars/Yash-Agrahari?label=Stars)
