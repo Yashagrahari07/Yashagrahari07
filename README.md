@@ -48,7 +48,7 @@ Hi, my name is Yash Agrahari, I'm a Full Stack Developer from Indonesia.
     
 ## 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,firebase,tailwindcss,bootstrap,html,css,vscode,figma,git,js,postman,mysql,mongodb,github,vscode"/>
+    <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,firebase,tailwindcss,bootstrap,html,css,vscode,figma,git,js,c,cpp,java,python,django,flask,postman,mysql,mongodb,github,vscode,vercel"/>
  </p>
 
 ## 📊 GitHub Stats:
